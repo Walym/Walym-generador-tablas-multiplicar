@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	outline: none;
+	box-sizing: border-box;
+}
+
+#resultados {
+    margin-top: 10px;
+    height: 30px;
+    display: block;
+  }
+
+  .contenedor{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+span{
+  font-weight: bold;
+  color:darkblue;
+}
